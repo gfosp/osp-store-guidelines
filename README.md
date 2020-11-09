@@ -1,5 +1,5 @@
 # osp-store-guidelines
-Guidelines for a good, transparent open source "app market" - allowing marketing of proprietary apps, but focusing on open source
+Guidelines for a good, transparent open source "app market" - allowing marketing of proprietary apps, but fully embracing and preferring open source applications
 
 ## Basic principals
 We at OSP focus on app market freedom. (yet: Limitations still apply.)
